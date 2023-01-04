@@ -6,7 +6,7 @@ def main():
 
 
 def convert(s):
-    regex = "(0?[0-9]|1[0-2]):?\.?([0-5][0-9])? (AM|PM)?"
+    regex = "(0?[1-9]|1[0-2]):?\.?([0-5][0-9])? (AM|PM)"
     match = re.search(r"^" + regex + " to " + regex + "$", s)
     if match:
         from_time = standardize(match.group(1), match.group(2), match.group(3))

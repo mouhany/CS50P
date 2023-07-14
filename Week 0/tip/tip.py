@@ -12,6 +12,7 @@ def dollars_to_float(d):
 
 def percent_to_float(p):
     f = float(p.strip().replace("%", "")) / 100.0
+    d=f/100 #convert percent to decimal eg- 15 into 0.15
     return f
 
 

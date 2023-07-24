@@ -1,6 +1,8 @@
 # CS50’s Introduction to Programming with Python
-
-These are my solutions for CS50's Introduction to Programming with Python 2022.
+[![Certificate](./static/CS50P-A4.png)](https://certificates.cs50.io/2dc4f1c0-2c67-4c61-8b74-7b9703cffd20.png?size=a4)
+### These are my solutions for CS50's Introduction to Programming with Python 2022.
+### Final Project: [Instagram Scraper](https://www.youtube.com/watch?v=rD8VCxQsC5w&t=17s)
+<br/>
 
 ## Disclaimer:
 
